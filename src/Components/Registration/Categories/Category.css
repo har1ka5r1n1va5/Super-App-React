@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+}
+.container{
+    background-color: #000000;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    position:relative;
+    max-width: 300vh;
+    height: 100vh;
+    margin-top: 350px;
+    padding: 10px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header{
+    color: #72DB73;
+    font-size: 71px;
+    font-family: 'Single Day';
+    font-weight: 400;
+    width: 554px;
+    height: 100px;
+
+
+}
+.select-category{
+    color: white;
+    font-size:68px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    width: 554px;
+    height: 316px;
+}
+.right{
+    display: flex;
+    flex-wrap: wrap;
+    width:600px;
+}
+.Button{
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    height: 150px;
+    border: none;
+    border-radius: 20px;
+    margin: 20px;
+}
+.action{
+    background-color: #FF5209;
+}
+.drama{
+    background-color: #D7A4FF;
+}
+.romance{
+    background-color: #148A08;
+
+}
+.thriller{
+    background-color: #84C2FF;
+}
+.western{
+    background-color: #902500;
+}
+.horror{
+    background-color: #7358FF;
+}
+.fantasy{
+    background-color: #FF4ADE;
+}
+.music{
+    background-color: #E61E32;
+}
+.fiction{
+    background-color: #6CD061;
+
+}
+.para{
+    font-size:20px ;
+    color: white;
+    font-family: 'DM Sans',sans-serif ;
+    font-weight: 500;
+    padding: 10px;
+}
+.Action{
+    height: 75px;
+    width:120px;
+    border:none;
+    border-radius: 25px;
+    padding: 15px ;
+}
