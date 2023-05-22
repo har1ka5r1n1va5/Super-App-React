@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Super-App-React/static/css/main.36250eda.css",
+    "main.css": "/Super-App-React/static/css/main.7a7b050b.css",
     "main.js": "/Super-App-React/static/js/main.fc5d9946.js",
     "static/js/787.336ec820.chunk.js": "/Super-App-React/static/js/787.336ec820.chunk.js",
     "static/media/person1.png": "/Super-App-React/static/media/person1.122fc9d93a27e3d73f61.png",
     "static/media/SingleDay-Regular.ttf": "/Super-App-React/static/media/SingleDay-Regular.9715e1098b099ac10747.ttf",
     "static/media/DMSans-Regular.ttf": "/Super-App-React/static/media/DMSans-Regular.aae18ae4c7505bc987ab.ttf",
     "index.html": "/Super-App-React/index.html",
-    "main.36250eda.css.map": "/Super-App-React/static/css/main.36250eda.css.map",
+    "main.7a7b050b.css.map": "/Super-App-React/static/css/main.7a7b050b.css.map",
     "main.fc5d9946.js.map": "/Super-App-React/static/js/main.fc5d9946.js.map",
     "787.336ec820.chunk.js.map": "/Super-App-React/static/js/787.336ec820.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36250eda.css",
+    "static/css/main.7a7b050b.css",
     "static/js/main.fc5d9946.js"
   ]
 }
